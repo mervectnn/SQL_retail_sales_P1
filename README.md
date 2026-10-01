@@ -214,7 +214,4 @@ that helped me learn and develop this project.
 This project was completed as part of my SQL learning journey,
 with my own practice and modifications.
 
-YouTube: https://www.youtube.com/@zero_analyst
-
-
 Thank you for your support, and I look forward to connecting with you!
